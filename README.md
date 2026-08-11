@@ -1,17 +1,13 @@
 # Alberto G. Valerio
 
-Ph.D. Candidate in **Digital Innovation and e-Health** at the
-[University of Bari "Aldo Moro"](https://www.uniba.it/), Italy.
+Ph.D. Candidate in **Digital Innovation and e-Health** at the [University of Bari "Aldo Moro"](https://www.uniba.it/), Italy.
 
-I work on **trustworthy and interpretable artificial intelligence for healthcare**, 
-with a particular focus on **Graph Neural Networks, Explainable AI, medical imaging 
-and neuroimaging, and multimodal learning**.
+I work on **trustworthy and interpretable artificial intelligence for healthcare**, with a particular focus on **Graph Neural Networks, Explainable AI, medical imaging and neuroimaging, and multimodal learning**.
 
-My research explores AI methodologies for clinically relevant problems, including 
-**brain tumor segmentation, early Alzheimer's disease diagnosis, and speech-based 
-modeling of mental health states**. I am particularly interested in developing 
-models that combine predictive performance with transparent and clinically 
-meaningful explanations.
+My research explores AI methodologies for clinically relevant problems, including **brain tumor segmentation, early Alzheimer's disease diagnosis, and speech-based 
+modeling of mental health states**. I am particularly interested in developing models that combine predictive performance with transparent and clinically meaningful explanations.
+
+My research background is complemented by more than ten years of professional software engineering experience.
 
 ## Research Interests
 
